@@ -1,5 +1,5 @@
 PODS:
-  - TimedSilver (1.1.0)
+  - TimedSilver (1.2.0)
 
 DEPENDENCIES:
   - TimedSilver (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TimedSilver: 7b9773d84a2c479893786b4123d6d41ae8be3d4c
+  TimedSilver: 2ee5f45f783a60e6fa8597db5d1d609e03736467
 
 PODFILE CHECKSUM: 416a9304df26078601f30ee2451b2f3dbe8abf38
 
-COCOAPODS: 1.7.2
+COCOAPODS: 1.10.1
